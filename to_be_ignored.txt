@@ -1,1 +1,1 @@
-'this file must be ignored by git' 
+'you shouldnt see this in github'
